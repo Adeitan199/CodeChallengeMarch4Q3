@@ -1,0 +1,16 @@
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\bin\Debug\net5.0\CodeChallengeMarch4Q3.exe
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\bin\Debug\net5.0\CodeChallengeMarch4Q3.deps.json
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\bin\Debug\net5.0\CodeChallengeMarch4Q3.runtimeconfig.json
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\bin\Debug\net5.0\CodeChallengeMarch4Q3.runtimeconfig.dev.json
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\bin\Debug\net5.0\CodeChallengeMarch4Q3.dll
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\bin\Debug\net5.0\CodeChallengeMarch4Q3.pdb
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\obj\Debug\net5.0\CodeChallengeMarch4Q3.csproj.AssemblyReference.cache
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\obj\Debug\net5.0\CodeChallengeMarch4Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\obj\Debug\net5.0\CodeChallengeMarch4Q3.AssemblyInfoInputs.cache
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\obj\Debug\net5.0\CodeChallengeMarch4Q3.AssemblyInfo.cs
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\obj\Debug\net5.0\CodeChallengeMarch4Q3.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\obj\Debug\net5.0\CodeChallengeMarch4Q3.dll
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\obj\Debug\net5.0\refint\CodeChallengeMarch4Q3.dll
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\obj\Debug\net5.0\CodeChallengeMarch4Q3.pdb
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\obj\Debug\net5.0\CodeChallengeMarch4Q3.genruntimeconfig.cache
+C:\Users\OWNER\Desktop\C#Projects\CodeChallengeMarch4Q3\CodeChallengeMarch4Q3\obj\Debug\net5.0\ref\CodeChallengeMarch4Q3.dll

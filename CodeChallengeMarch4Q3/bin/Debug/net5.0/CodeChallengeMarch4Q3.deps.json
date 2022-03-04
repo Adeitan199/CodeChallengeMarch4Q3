@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CodeChallengeMarch4Q3/1.0.0": {
+        "runtime": {
+          "CodeChallengeMarch4Q3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeChallengeMarch4Q3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
